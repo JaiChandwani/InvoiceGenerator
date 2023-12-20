@@ -1,0 +1,28 @@
+#GenBtn{
+    position: relative;
+    right: -36vw;
+    padding: 0.4vw;
+    background-color: green;
+    color: white;
+    border: transparent;
+    border-radius: 0.3vw;
+}
+
+#rstBtn{
+    position: relative;
+    right: -36vw;
+    padding: 0.4vw;
+    background-color: rgba(255, 0, 0, 0.5);
+    color: white;
+    border: transparent;
+    border-radius: 0.4vw;
+}
+#pntBtn{
+    position: relative;
+    right: -36vw;
+    padding: 0.4vw;
+    background-color: rgba(0, 0, 255, 0.5);
+    color: white;
+    border: transparent;
+    border-radius: 0.4vw;
+}
