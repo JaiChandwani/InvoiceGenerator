@@ -27,7 +27,7 @@ td{
 
 .borderTransp{
 background-color: transparent;
-border: transparent;}
+border: 0.1vw solid black;}
 
 .p-2{
     padding-top:2vw;
