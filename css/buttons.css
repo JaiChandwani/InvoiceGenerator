@@ -1,6 +1,6 @@
 #GenBtn{
     position: relative;
-    right: -36vw;
+    right: -30vw;
     padding: 0.4vw;
     background-color: green;
     color: white;
@@ -10,7 +10,7 @@
 
 #rstBtn{
     position: relative;
-    right: -36vw;
+    right: -30vw;
     padding: 0.4vw;
     background-color: rgba(255, 0, 0, 0.5);
     color: white;
@@ -19,7 +19,7 @@
 }
 #pntBtn{
     position: relative;
-    right: -36vw;
+    right: -30vw;
     padding: 0.4vw;
     background-color: rgba(0, 0, 255, 0.5);
     color: white;
